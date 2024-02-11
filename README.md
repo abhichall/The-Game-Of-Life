@@ -1,5 +1,5 @@
 # The-Game-Of-Life
-Inspired my James Conway
+Inspired By James Conway
 
 ## Overview
 
